@@ -1,1 +1,1 @@
-script thst sets permissions to others only
+script that sets the mode of the file hello to 753
