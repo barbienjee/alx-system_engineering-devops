@@ -1,1 +1,1 @@
-script that sets the mode of the file hello to 753
+script that sets the file mode same as another file
