@@ -1,1 +1,1 @@
-script that adds execute permission to all subdirectories
+script that changes the owner
