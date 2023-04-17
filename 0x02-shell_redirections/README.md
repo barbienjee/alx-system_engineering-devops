@@ -1,1 +1,1 @@
-script that prints only words that appear exactly once
+Display lines containing the pattern “root”
