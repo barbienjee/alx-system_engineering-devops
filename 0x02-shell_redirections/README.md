@@ -1,1 +1,1 @@
-script that displays a confused smile
+Display the content of the /etc/passwd file
