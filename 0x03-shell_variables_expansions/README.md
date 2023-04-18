@@ -1,1 +1,1 @@
-script that prints hello user
+script that creates an alias
